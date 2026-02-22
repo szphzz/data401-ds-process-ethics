@@ -1,4 +1,4 @@
-# DATA 401 Data Science Process and Ethics, Fall 2023
+# DATA 401 Data Science Process and Ethics
 
 This repo consists of in-class assignments.
 

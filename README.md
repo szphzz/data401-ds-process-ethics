@@ -2,7 +2,7 @@
 
 This repo consists of in-class assignments.
 
-The content covers
+The content covers:
 - complete life cycle of a data science project
 - requirements engineering and data acquisition
 - management and integration of data of high volume, velocity, and variety
